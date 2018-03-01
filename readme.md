@@ -1,3 +1,3 @@
 # Practice work
-+ By: *Tatiana Flint *
++ By: *Tatiana Flint*
 + Production URL: <http://foobooks.idreamcode.com>
