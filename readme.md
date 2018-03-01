@@ -1,3 +1,3 @@
 # Practice work
-+ By: *your first and last name*
++ By: *Tatiana Flint*
 + Production URL: <http://foobooks.idreamcode.com>
